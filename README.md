@@ -4,7 +4,7 @@
 
 
 ### General over view 
-[<img width="1920" height="1080" alt="screenshot-1791291071" src="https://github.com/user-attachments/assets/8deade63-4b95-47b9-878b-cec324ebd3db" />](https://drive.google.com/file/d/1lsE3FSueEKDUZKkUuBRpnYAWpU-dYtdy/view?usp=sharing)
+[<img width="1920" height="1080" alt="screenshot-1791291071" src="https://github.com/user-attachments/assets/8deade63-4b95-47b9-878b-cec324ebd3db" />](https://drive.google.com/file/d/1JHvkV2c-EFpDqMWWkMtISF81V8i3THrz/view?usp=sharing)
 
 ### conky 
 ![alt text](screenshot-1791282844.png)
